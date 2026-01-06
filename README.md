@@ -392,9 +392,7 @@ flake8 .
 ## Technical Report
 
 For detailed technical information, see:
-- [Architecture Documentation](docs/architecture.md)
-- [API Reference](docs/api.md)
-- [User Guide](docs/user_guide.md)
+- [Architecture Documentation](Technical_Report.pdf)
 
 ---
 
