@@ -1,4 +1,4 @@
-# Q.Invoice - AI-Powered Invoice Processing System
+# Q.Invoice : AI-Powered Invoice Processing System
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-red.svg)](https://streamlit.io)
