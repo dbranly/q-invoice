@@ -437,19 +437,6 @@ This project was developed as part of a Master's program in AI/Data Science, foc
 
 ---
 
-## Team
-
-- **Your Name** - Lead Developer - [GitHub](https://github.com/yourusername)
-- Add team members here
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgments
 
 - **PaddleOCR** - Open-source OCR engine
@@ -465,7 +452,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or support:
 - **Email**: branly.djime@gmail.com and katibimaria@gmail.com
 - **Project Link**: https://github.com/dbranly/qinvoice
-- **Documentation**: https://qinvoice.readthedocs.io
 
 ---
 
